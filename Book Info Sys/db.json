@@ -1,0 +1,32 @@
+[
+    {
+        "id": 12,
+        "name": "ws",
+        "price": 12.0,
+        "year": 23
+    },
+    {
+        "id": 1,
+        "name": "a",
+        "price": 1.0,
+        "year": 22
+    },
+    {
+        "id": 111,
+        "name": "s",
+        "price": 11.0,
+        "year": 22
+    },
+    {
+        "id": 23,
+        "name": "sss",
+        "price": 22.0,
+        "year": 22
+    },
+    {
+        "id": 13,
+        "name": "sd",
+        "price": 23.0,
+        "year": 2025
+    }
+]
