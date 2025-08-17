@@ -1,0 +1,11 @@
+[
+    {
+        "week": "1",
+        "date": "2025-08-17",
+        "tasks": "List, Tuple, Set, Dict\ninbuilt functions\nopps concepts\nlearned proper logging, validation\n3-4 tkinter ui applications",
+        "challenges": "write clean codes\nlearn every basics\ndon't use AI",
+        "learnings": "json\n__init__.py\nuse classes to make scaled application\nlogging\nxlsx\ndatetime\nos",
+        "goals": "learn to write clean code\nmaster tkinter\n",
+        "notes": "practice more coding\nmaster classes\nuse less/no AI\n"
+    }
+]
