@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "1",
+        "author": "1",
+        "price": 1.0,
+        "year": 1
+    },
+    {
+        "id": 2,
+        "name": "sdvb",
+        "author": "dbd",
+        "price": 23.0,
+        "year": 232
+    },
+    {
+        "id": 12,
+        "name": "12",
+        "author": "1",
+        "price": 1.0,
+        "year": 1
+    },
+    {
+        "id": 111,
+        "name": "1w",
+        "author": "1",
+        "price": 1.0,
+        "year": 1
+    },
+    {
+        "id": 35,
+        "name": "53",
+        "author": "46",
+        "price": 565.0,
+        "year": 65
+    }
+]

@@ -1,0 +1,980 @@
+21/08/25	10:29:31 	BookAppLogger INFO     Save tab started
+21/08/25	10:29:31 	BookAppLogger INFO     Search tab started
+21/08/25	10:29:31 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:30:10 	BookAppLogger INFO     Save tab started
+21/08/25	10:30:10 	BookAppLogger INFO     Search tab started
+21/08/25	10:30:10 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:30:23 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	10:30:29 	BookAppLogger INFO     Excel downloaded to /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	10:30:47 	BookAppLogger INFO     Save tab started
+21/08/25	10:30:47 	BookAppLogger INFO     Search tab started
+21/08/25	10:30:47 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:39:39 	BookAppLogger INFO     Save tab started
+21/08/25	10:39:40 	BookAppLogger INFO     Search tab started
+21/08/25	10:39:40 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:40:06 	BookAppLogger INFO     Save tab started
+21/08/25	10:40:06 	BookAppLogger INFO     Search tab started
+21/08/25	10:40:06 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:40:30 	BookAppLogger INFO     Save tab started
+21/08/25	10:40:30 	BookAppLogger INFO     Search tab started
+21/08/25	10:40:30 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:41:14 	BookAppLogger INFO     Save tab started
+21/08/25	10:41:14 	BookAppLogger INFO     Search tab started
+21/08/25	10:41:14 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:42:01 	BookAppLogger INFO     Save tab started
+21/08/25	10:42:01 	BookAppLogger INFO     Search tab started
+21/08/25	10:42:01 	BookAppLogger INFO     Export tab initialized
+21/08/25	10:43:49 	BookAppLogger INFO     Save tab started
+21/08/25	10:43:49 	BookAppLogger INFO     Search tab started
+21/08/25	10:43:49 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:30:28 	BookAppLogger INFO     Save tab started
+21/08/25	11:30:28 	BookAppLogger INFO     Search tab started
+21/08/25	11:30:28 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:30:39 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:31:12 	BookAppLogger INFO     Save tab started
+21/08/25	11:31:12 	BookAppLogger INFO     Search tab started
+21/08/25	11:31:12 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:31:40 	BookAppLogger INFO     Save tab started
+21/08/25	11:31:40 	BookAppLogger INFO     Search tab started
+21/08/25	11:31:40 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:31:45 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:35:21 	BookAppLogger INFO     Save tab started
+21/08/25	11:35:21 	BookAppLogger INFO     Search tab started
+21/08/25	11:35:21 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:35:27 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	11:36:54 	BookAppLogger INFO     Save tab started
+21/08/25	11:36:54 	BookAppLogger INFO     Search tab started
+21/08/25	11:36:54 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:37:52 	BookAppLogger INFO     Save tab started
+21/08/25	11:37:52 	BookAppLogger INFO     Search tab started
+21/08/25	11:37:52 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:38:48 	BookAppLogger INFO     Save tab started
+21/08/25	11:38:48 	BookAppLogger INFO     Search tab started
+21/08/25	11:38:48 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:39:06 	BookAppLogger INFO     Save tab started
+21/08/25	11:39:06 	BookAppLogger INFO     Search tab started
+21/08/25	11:39:06 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:39:09 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:39:15 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	11:39:18 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:39:22 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	11:39:31 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:39:51 	BookAppLogger INFO     Save tab started
+21/08/25	11:39:51 	BookAppLogger INFO     Search tab started
+21/08/25	11:39:51 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:40:01 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:53:36 	BookAppLogger INFO     Save tab started
+21/08/25	11:53:36 	BookAppLogger INFO     Search tab started
+21/08/25	11:53:36 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:54:07 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:55:29 	BookAppLogger INFO     Save tab started
+21/08/25	11:55:29 	BookAppLogger INFO     Search tab started
+21/08/25	11:55:29 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:55:31 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	11:55:55 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	11:57:28 	BookAppLogger INFO     Save tab started
+21/08/25	11:57:28 	BookAppLogger INFO     Search tab started
+21/08/25	11:57:28 	BookAppLogger INFO     Export tab initialized
+21/08/25	11:57:33 	BookAppLogger ERROR    Failed to open Excel file: File is not a zip file
+21/08/25	11:57:45 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	11:58:36 	BookAppLogger INFO     Save tab started
+21/08/25	11:58:36 	BookAppLogger INFO     Search tab started
+21/08/25	11:58:36 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:00:18 	BookAppLogger INFO     Save tab started
+21/08/25	12:00:18 	BookAppLogger INFO     Search tab started
+21/08/25	12:00:18 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:00:20 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	12:00:24 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/123456.xlsx
+21/08/25	12:10:56 	BookAppLogger INFO     Save tab started
+21/08/25	12:10:56 	BookAppLogger INFO     Search tab started
+21/08/25	12:10:56 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:11:02 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	12:11:13 	BookAppLogger INFO     Save tab started
+21/08/25	12:11:13 	BookAppLogger INFO     Search tab started
+21/08/25	12:11:13 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:11:18 	BookAppLogger INFO     Save tab started
+21/08/25	12:11:18 	BookAppLogger INFO     Search tab started
+21/08/25	12:11:18 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:11:21 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	12:11:26 	BookAppLogger INFO     Excel downloaded to /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:11:31 	BookAppLogger INFO     Save tab started
+21/08/25	12:11:31 	BookAppLogger INFO     Search tab started
+21/08/25	12:11:31 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:11:33 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	12:11:38 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:13:30 	BookAppLogger INFO     Save tab started
+21/08/25	12:13:30 	BookAppLogger INFO     Search tab started
+21/08/25	12:13:30 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:13:35 	BookAppLogger ERROR    Failed to open Excel file: 'NoneType' object has no attribute 'strip'
+21/08/25	12:14:02 	BookAppLogger INFO     Save tab started
+21/08/25	12:14:02 	BookAppLogger INFO     Search tab started
+21/08/25	12:14:02 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:14:06 	BookAppLogger ERROR    Failed to open Excel file: 'tuple' object has no attribute 'strip'
+21/08/25	12:14:45 	BookAppLogger INFO     Save tab started
+21/08/25	12:14:45 	BookAppLogger INFO     Search tab started
+21/08/25	12:14:45 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:14:49 	BookAppLogger ERROR    Failed to open Excel file: 'tuple' object has no attribute 'strip'
+21/08/25	12:20:41 	BookAppLogger INFO     Save tab started
+21/08/25	12:20:41 	BookAppLogger INFO     Search tab started
+21/08/25	12:20:41 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:20:43 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	12:20:47 	BookAppLogger ERROR    Failed to open Excel file: 'tuple' object has no attribute 'strip'
+21/08/25	12:21:20 	BookAppLogger INFO     Save tab started
+21/08/25	12:21:20 	BookAppLogger INFO     Search tab started
+21/08/25	12:21:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:21:27 	BookAppLogger ERROR    Failed to open Excel file: 'tuple' object has no attribute 'strip'
+21/08/25	12:23:32 	BookAppLogger INFO     Save tab started
+21/08/25	12:23:32 	BookAppLogger INFO     Search tab started
+21/08/25	12:23:32 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:23:36 	BookAppLogger ERROR    Failed to open Excel file: 'tuple' object has no attribute 'strip'
+21/08/25	12:24:49 	BookAppLogger INFO     Save tab started
+21/08/25	12:24:49 	BookAppLogger INFO     Search tab started
+21/08/25	12:24:49 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:24:53 	BookAppLogger ERROR    Failed to open Excel file: 'tuple' object has no attribute 'strip'
+21/08/25	12:29:46 	BookAppLogger INFO     Save tab started
+21/08/25	12:29:46 	BookAppLogger INFO     Search tab started
+21/08/25	12:29:46 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:29:50 	BookAppLogger ERROR    Failed to open Excel file: 'int' object has no attribute 'strip'
+21/08/25	12:31:07 	BookAppLogger INFO     Save tab started
+21/08/25	12:31:07 	BookAppLogger INFO     Search tab started
+21/08/25	12:31:07 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:31:11 	BookAppLogger ERROR    Failed to open Excel file: 'int' object has no attribute 'strip'
+21/08/25	12:32:04 	BookAppLogger INFO     Save tab started
+21/08/25	12:32:04 	BookAppLogger INFO     Search tab started
+21/08/25	12:32:04 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:32:11 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:32:54 	BookAppLogger INFO     Save tab started
+21/08/25	12:32:54 	BookAppLogger INFO     Search tab started
+21/08/25	12:32:54 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:32:59 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:33:46 	BookAppLogger INFO     Save tab started
+21/08/25	12:33:46 	BookAppLogger INFO     Search tab started
+21/08/25	12:33:46 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:33:52 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:35:35 	BookAppLogger INFO     Save tab started
+21/08/25	12:35:35 	BookAppLogger INFO     Search tab started
+21/08/25	12:35:35 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:35:39 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:38:27 	BookAppLogger INFO     Save tab started
+21/08/25	12:38:27 	BookAppLogger INFO     Search tab started
+21/08/25	12:38:27 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:38:30 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:38:34 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/12.xlsx
+21/08/25	12:39:44 	BookAppLogger INFO     Save tab started
+21/08/25	12:39:44 	BookAppLogger INFO     Search tab started
+21/08/25	12:39:44 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:39:48 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:43:32 	BookAppLogger INFO     Save tab started
+21/08/25	12:43:32 	BookAppLogger INFO     Search tab started
+21/08/25	12:43:32 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:43:32 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:43:36 	BookAppLogger INFO     Opened and displayed Excel file: /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	12:43:37 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	12:45:14 	BookAppLogger INFO     Save tab started
+21/08/25	12:45:14 	BookAppLogger INFO     Search tab started
+21/08/25	12:45:14 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:45:14 	BookAppLogger INFO     XML tab initialized
+21/08/25	12:45:37 	BookAppLogger INFO     Save tab started
+21/08/25	12:45:37 	BookAppLogger INFO     Search tab started
+21/08/25	12:45:37 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:45:37 	BookAppLogger INFO     XML tab initialized
+21/08/25	12:45:40 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	12:55:20 	BookAppLogger INFO     Save tab started
+21/08/25	12:55:20 	BookAppLogger INFO     Search tab started
+21/08/25	12:55:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:55:20 	BookAppLogger INFO     XML tab initialized
+21/08/25	12:55:22 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	12:57:27 	BookAppLogger INFO     Save tab started
+21/08/25	12:57:27 	BookAppLogger INFO     Search tab started
+21/08/25	12:57:27 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:57:27 	BookAppLogger INFO     XML tab initialized
+21/08/25	12:57:29 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	12:57:55 	BookAppLogger INFO     Save tab started
+21/08/25	12:57:55 	BookAppLogger INFO     Search tab started
+21/08/25	12:57:55 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:57:55 	BookAppLogger INFO     XML tab initialized
+21/08/25	12:57:56 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	12:57:56 	BookAppLogger ERROR    Failed to write XML file: unknown option "-state"
+21/08/25	12:58:29 	BookAppLogger INFO     Save tab started
+21/08/25	12:58:29 	BookAppLogger INFO     Search tab started
+21/08/25	12:58:29 	BookAppLogger INFO     Export tab initialized
+21/08/25	12:58:29 	BookAppLogger INFO     XML tab initialized
+21/08/25	12:58:30 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:00:08 	BookAppLogger INFO     Save tab started
+21/08/25	13:00:08 	BookAppLogger INFO     Search tab started
+21/08/25	13:00:08 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:00:08 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:00:33 	BookAppLogger INFO     Save tab started
+21/08/25	13:00:33 	BookAppLogger INFO     Search tab started
+21/08/25	13:00:33 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:00:33 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:00:37 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:02:14 	BookAppLogger INFO     Save tab started
+21/08/25	13:02:14 	BookAppLogger INFO     Search tab started
+21/08/25	13:02:14 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:02:14 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:02:16 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:03:54 	BookAppLogger INFO     Save tab started
+21/08/25	13:03:54 	BookAppLogger INFO     Search tab started
+21/08/25	13:03:54 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:03:54 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:03:56 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:09:04 	BookAppLogger INFO     Save tab started
+21/08/25	13:09:04 	BookAppLogger INFO     Search tab started
+21/08/25	13:09:04 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:09:04 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:09:06 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:09:09 	BookAppLogger INFO     Save tab started
+21/08/25	13:09:09 	BookAppLogger INFO     Search tab started
+21/08/25	13:09:09 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:09:09 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:09:16 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:10:12 	BookAppLogger INFO     Save tab started
+21/08/25	13:10:12 	BookAppLogger INFO     Search tab started
+21/08/25	13:10:12 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:10:12 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:10:15 	BookAppLogger INFO     Exported JSON to XML: data/output.xml
+21/08/25	13:12:27 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:21:25 	BookAppLogger INFO     Save tab started
+21/08/25	13:21:25 	BookAppLogger INFO     Search tab started
+21/08/25	13:21:25 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:21:25 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:29:06 	BookAppLogger INFO     Save tab started
+21/08/25	13:29:06 	BookAppLogger INFO     Search tab started
+21/08/25	13:29:06 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:29:06 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:29:27 	BookAppLogger INFO     Save tab started
+21/08/25	13:29:27 	BookAppLogger INFO     Search tab started
+21/08/25	13:29:27 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:29:27 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:29:54 	BookAppLogger INFO     Save tab started
+21/08/25	13:29:54 	BookAppLogger INFO     Search tab started
+21/08/25	13:29:54 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:29:54 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:30:20 	BookAppLogger INFO     Save tab started
+21/08/25	13:30:20 	BookAppLogger INFO     Search tab started
+21/08/25	13:30:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:30:20 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:36:25 	BookAppLogger INFO     Save tab started
+21/08/25	13:36:25 	BookAppLogger INFO     Search tab started
+21/08/25	13:36:25 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:36:25 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:36:34 	BookAppLogger INFO     Opened XML file: /home/python_1/Desktop/Shreyash/data/output.xml
+21/08/25	13:38:28 	BookAppLogger INFO     Save tab started
+21/08/25	13:38:28 	BookAppLogger INFO     Search tab started
+21/08/25	13:38:28 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:38:28 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:38:30 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:38:43 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/fileee.xml
+21/08/25	13:41:30 	BookAppLogger INFO     Save tab started
+21/08/25	13:41:30 	BookAppLogger INFO     Search tab started
+21/08/25	13:41:30 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:41:30 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:41:34 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:41:38 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:41:47 	BookAppLogger INFO     Opened XML file: /home/python_1/Desktop/Shreyash/fileee.xml
+21/08/25	13:42:33 	BookAppLogger INFO     Save tab started
+21/08/25	13:42:33 	BookAppLogger INFO     Search tab started
+21/08/25	13:42:33 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:42:33 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:42:36 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:42:41 	BookAppLogger INFO     Save tab started
+21/08/25	13:42:41 	BookAppLogger INFO     Search tab started
+21/08/25	13:42:41 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:42:41 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:43:36 	BookAppLogger INFO     Save tab started
+21/08/25	13:43:36 	BookAppLogger INFO     Search tab started
+21/08/25	13:43:36 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:43:37 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:43:42 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:43:46 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/a.xml
+21/08/25	13:47:20 	BookAppLogger INFO     Save tab started
+21/08/25	13:47:20 	BookAppLogger INFO     Search tab started
+21/08/25	13:47:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:47:20 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:47:22 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:47:28 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/filr .xml
+21/08/25	13:47:35 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:47:41 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/sd.xml
+21/08/25	13:48:17 	BookAppLogger INFO     Save tab started
+21/08/25	13:48:17 	BookAppLogger INFO     Search tab started
+21/08/25	13:48:17 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:48:17 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:48:19 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:49:05 	BookAppLogger INFO     Save tab started
+21/08/25	13:49:05 	BookAppLogger INFO     Search tab started
+21/08/25	13:49:06 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:49:06 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:49:07 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:49:11 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/1.xml
+21/08/25	13:49:54 	BookAppLogger INFO     Save tab started
+21/08/25	13:49:54 	BookAppLogger INFO     Search tab started
+21/08/25	13:49:54 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:49:54 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:49:56 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:49:59 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/5.xml
+21/08/25	13:52:56 	BookAppLogger INFO     Save tab started
+21/08/25	13:52:56 	BookAppLogger INFO     Search tab started
+21/08/25	13:52:56 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:52:56 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:52:57 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	13:53:01 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/2.xml
+21/08/25	13:55:02 	BookAppLogger INFO     Save tab started
+21/08/25	13:55:02 	BookAppLogger INFO     Search tab started
+21/08/25	13:55:02 	BookAppLogger INFO     Export tab initialized
+21/08/25	13:55:02 	BookAppLogger INFO     XML tab initialized
+21/08/25	13:55:17 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/2.xml
+21/08/25	14:00:00 	BookAppLogger INFO     Save tab started
+21/08/25	14:00:00 	BookAppLogger INFO     Search tab started
+21/08/25	14:00:00 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:00:00 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:00:06 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:00:11 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/2.xml
+21/08/25	14:04:41 	BookAppLogger INFO     Save tab started
+21/08/25	14:04:41 	BookAppLogger INFO     Search tab started
+21/08/25	14:04:41 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:04:41 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:04:45 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:04:47 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:05:50 	BookAppLogger INFO     Save tab started
+21/08/25	14:05:50 	BookAppLogger INFO     Search tab started
+21/08/25	14:05:50 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:05:50 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:05:54 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:06:01 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/234.xml
+21/08/25	14:06:35 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/234.xml
+21/08/25	14:07:51 	BookAppLogger INFO     Save tab started
+21/08/25	14:07:51 	BookAppLogger INFO     Search tab started
+21/08/25	14:07:51 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:07:51 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:08:17 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/234.xml
+21/08/25	14:08:27 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:08:33 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/sdf.xml
+21/08/25	14:11:14 	BookAppLogger INFO     Save tab started
+21/08/25	14:11:14 	BookAppLogger INFO     Search tab started
+21/08/25	14:11:14 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:11:14 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:11:25 	BookAppLogger INFO     Data saved for Book Id: 2
+21/08/25	14:11:26 	BookAppLogger INFO     Book Data Saved
+21/08/25	14:11:26 	BookAppLogger INFO     Cleared all feilds
+21/08/25	14:11:30 	BookAppLogger INFO     Searching for '2' by ID
+21/08/25	14:11:32 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:11:34 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:11:49 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/24.xml
+21/08/25	14:12:09 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/234.xml
+21/08/25	14:12:11 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:12:18 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/24.xml
+21/08/25	14:14:29 	BookAppLogger INFO     Save tab started
+21/08/25	14:14:29 	BookAppLogger INFO     Search tab started
+21/08/25	14:14:29 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:14:29 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:14:31 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:14:35 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/fn.xml
+21/08/25	14:14:41 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/fn.xml
+21/08/25	14:15:31 	BookAppLogger INFO     Save tab started
+21/08/25	14:15:31 	BookAppLogger INFO     Search tab started
+21/08/25	14:15:31 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:15:31 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:15:32 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:15:37 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/sdf.xml
+21/08/25	14:18:47 	BookAppLogger INFO     Save tab started
+21/08/25	14:18:47 	BookAppLogger INFO     Search tab started
+21/08/25	14:18:47 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:18:47 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:19:10 	BookAppLogger INFO     Save tab started
+21/08/25	14:19:10 	BookAppLogger INFO     Search tab started
+21/08/25	14:19:10 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:19:10 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:19:43 	BookAppLogger INFO     Save tab started
+21/08/25	14:19:43 	BookAppLogger INFO     Search tab started
+21/08/25	14:19:43 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:19:43 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:20:42 	BookAppLogger INFO     Save tab started
+21/08/25	14:20:42 	BookAppLogger INFO     Search tab started
+21/08/25	14:20:42 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:20:42 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:20:52 	BookAppLogger INFO     Data saved for Book Id: 12
+21/08/25	14:20:53 	BookAppLogger INFO     Book Data Saved
+21/08/25	14:20:53 	BookAppLogger INFO     Cleared all feilds
+21/08/25	14:21:31 	BookAppLogger INFO     Save tab started
+21/08/25	14:21:32 	BookAppLogger INFO     Search tab started
+21/08/25	14:21:32 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:21:32 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:21:36 	BookAppLogger INFO     Book Id 1 already exists
+21/08/25	14:22:03 	BookAppLogger INFO     Save tab started
+21/08/25	14:22:03 	BookAppLogger INFO     Search tab started
+21/08/25	14:22:03 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:22:03 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:22:07 	BookAppLogger INFO     Book Id 1 already exists
+21/08/25	14:22:10 	BookAppLogger INFO     Book Name 1 already exists
+21/08/25	14:22:13 	BookAppLogger INFO     Data saved for Book Id: 111
+21/08/25	14:22:14 	BookAppLogger INFO     Book Data Saved
+21/08/25	14:22:14 	BookAppLogger INFO     Cleared all feilds
+21/08/25	14:22:17 	BookAppLogger INFO     Searching for '1' by ID
+21/08/25	14:22:21 	BookAppLogger INFO     Searching for '1' by Name
+21/08/25	14:22:26 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:22:33 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:22:44 	BookAppLogger INFO     Exported JSON to XML: /home/python_1/Desktop/Shreyash/book.xml
+21/08/25	14:22:48 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/book.xml
+21/08/25	14:26:52 	BookAppLogger INFO     Save tab started
+21/08/25	14:26:52 	BookAppLogger INFO     Search tab started
+21/08/25	14:26:52 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:26:52 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:27:30 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:28:20 	BookAppLogger INFO     Save tab started
+21/08/25	14:28:20 	BookAppLogger INFO     Search tab started
+21/08/25	14:28:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:28:20 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:28:23 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:28:45 	BookAppLogger INFO     Save tab started
+21/08/25	14:28:45 	BookAppLogger INFO     Search tab started
+21/08/25	14:28:45 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:28:45 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:29:03 	BookAppLogger INFO     Save tab started
+21/08/25	14:29:03 	BookAppLogger INFO     Search tab started
+21/08/25	14:29:03 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:29:03 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:29:05 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:31:41 	BookAppLogger INFO     Save tab started
+21/08/25	14:31:41 	BookAppLogger INFO     Search tab started
+21/08/25	14:31:42 	BookAppLogger INFO     Export tab initialized
+21/08/25	14:31:42 	BookAppLogger INFO     XML tab initialized
+21/08/25	14:31:49 	BookAppLogger INFO     Data saved for Book Id: 35
+21/08/25	14:31:50 	BookAppLogger INFO     Book Data Saved
+21/08/25	14:31:50 	BookAppLogger INFO     Cleared all feilds
+21/08/25	14:31:55 	BookAppLogger INFO     Searching for '34' by ID
+21/08/25	14:31:58 	BookAppLogger INFO     Searching for '1' by ID
+21/08/25	14:32:01 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:32:10 	BookAppLogger INFO     Searching for '35' by ID
+21/08/25	14:32:13 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	14:32:19 	BookAppLogger INFO     Opened XML file and displayed as table: /home/python_1/Desktop/Shreyash/book.xml
+21/08/25	15:31:37 	BookAppLogger INFO     Save tab started
+21/08/25	15:31:37 	BookAppLogger INFO     Search tab started
+21/08/25	15:31:37 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:31:37 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:31:37 	BookAppLogger INFO     Read tab started
+21/08/25	15:33:12 	BookAppLogger INFO     Save tab started
+21/08/25	15:33:12 	BookAppLogger INFO     Search tab started
+21/08/25	15:33:12 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:33:12 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:33:12 	BookAppLogger INFO     Read tab started
+21/08/25	15:33:33 	BookAppLogger INFO     Save tab started
+21/08/25	15:33:33 	BookAppLogger INFO     Search tab started
+21/08/25	15:33:33 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:33:33 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:33:33 	BookAppLogger INFO     Read tab started
+21/08/25	15:34:51 	BookAppLogger INFO     Save tab started
+21/08/25	15:34:51 	BookAppLogger INFO     Search tab started
+21/08/25	15:34:51 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:34:51 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:34:51 	BookAppLogger INFO     Read tab started
+21/08/25	15:35:02 	BookAppLogger INFO     Save tab started
+21/08/25	15:35:02 	BookAppLogger INFO     Search tab started
+21/08/25	15:35:02 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:35:02 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:35:02 	BookAppLogger INFO     Read tab started
+21/08/25	15:37:01 	BookAppLogger INFO     Save tab started
+21/08/25	15:37:01 	BookAppLogger INFO     Search tab started
+21/08/25	15:37:01 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:37:01 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:37:01 	BookAppLogger INFO     Read tab started
+21/08/25	15:37:40 	BookAppLogger INFO     Save tab started
+21/08/25	15:37:40 	BookAppLogger INFO     Search tab started
+21/08/25	15:37:40 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:37:40 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:37:40 	BookAppLogger INFO     Read tab started
+21/08/25	15:38:08 	BookAppLogger INFO     Save tab started
+21/08/25	15:38:08 	BookAppLogger INFO     Search tab started
+21/08/25	15:38:08 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:38:08 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:38:08 	BookAppLogger INFO     Read tab started
+21/08/25	15:38:25 	BookAppLogger INFO     Save tab started
+21/08/25	15:38:26 	BookAppLogger INFO     Search tab started
+21/08/25	15:38:26 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:38:26 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:38:26 	BookAppLogger INFO     Read tab started
+21/08/25	15:39:16 	BookAppLogger INFO     Save tab started
+21/08/25	15:39:16 	BookAppLogger INFO     Search tab started
+21/08/25	15:39:16 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:39:16 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:39:16 	BookAppLogger INFO     Read tab started
+21/08/25	15:41:02 	BookAppLogger INFO     Save tab started
+21/08/25	15:41:02 	BookAppLogger INFO     Search tab started
+21/08/25	15:41:02 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:41:02 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:41:02 	BookAppLogger INFO     Read tab started
+21/08/25	15:42:26 	BookAppLogger INFO     Save tab started
+21/08/25	15:42:26 	BookAppLogger INFO     Search tab started
+21/08/25	15:42:26 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:42:26 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:42:26 	BookAppLogger INFO     Read tab started
+21/08/25	15:43:49 	BookAppLogger INFO     Save tab started
+21/08/25	15:43:49 	BookAppLogger INFO     Search tab started
+21/08/25	15:43:49 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:43:49 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:43:49 	BookAppLogger INFO     Read tab started
+21/08/25	15:45:14 	BookAppLogger INFO     Save tab started
+21/08/25	15:45:15 	BookAppLogger INFO     Search tab started
+21/08/25	15:45:15 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:45:15 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:45:15 	BookAppLogger INFO     Read tab started
+21/08/25	15:45:55 	BookAppLogger INFO     Save tab started
+21/08/25	15:45:56 	BookAppLogger INFO     Search tab started
+21/08/25	15:45:56 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:45:56 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:45:56 	BookAppLogger INFO     Read tab started
+21/08/25	15:46:25 	BookAppLogger INFO     Save tab started
+21/08/25	15:46:25 	BookAppLogger INFO     Search tab started
+21/08/25	15:46:25 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:46:25 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:46:25 	BookAppLogger INFO     Read tab started
+21/08/25	15:54:38 	BookAppLogger INFO     Save tab started
+21/08/25	15:54:38 	BookAppLogger INFO     Search tab started
+21/08/25	15:54:38 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:54:38 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:54:38 	BookAppLogger INFO     Read tab started
+21/08/25	15:54:43 	BookAppLogger INFO     Cleared all feilds
+21/08/25	15:55:08 	BookAppLogger INFO     Save tab started
+21/08/25	15:55:25 	BookAppLogger INFO     Save tab started
+21/08/25	15:55:25 	BookAppLogger INFO     Search tab started
+21/08/25	15:55:25 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:55:25 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:55:25 	BookAppLogger INFO     Read tab started
+21/08/25	15:55:40 	BookAppLogger INFO     Save tab started
+21/08/25	15:55:40 	BookAppLogger INFO     Search tab started
+21/08/25	15:55:40 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:55:40 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:55:40 	BookAppLogger INFO     Read tab started
+21/08/25	15:57:03 	BookAppLogger INFO     Save tab started
+21/08/25	15:57:03 	BookAppLogger INFO     Search tab started
+21/08/25	15:57:03 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:57:03 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:57:03 	BookAppLogger INFO     Read tab started
+21/08/25	15:58:21 	BookAppLogger INFO     Save tab started
+21/08/25	15:58:21 	BookAppLogger INFO     Search tab started
+21/08/25	15:58:21 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:58:21 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:58:21 	BookAppLogger INFO     Read tab started
+21/08/25	15:59:13 	BookAppLogger INFO     Save tab started
+21/08/25	15:59:13 	BookAppLogger INFO     Search tab started
+21/08/25	15:59:13 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:59:13 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:59:13 	BookAppLogger INFO     Read tab started
+21/08/25	15:59:48 	BookAppLogger INFO     Save tab started
+21/08/25	15:59:48 	BookAppLogger INFO     Search tab started
+21/08/25	15:59:48 	BookAppLogger INFO     Export tab initialized
+21/08/25	15:59:48 	BookAppLogger INFO     XML tab initialized
+21/08/25	15:59:48 	BookAppLogger INFO     Read tab started
+21/08/25	16:00:33 	BookAppLogger INFO     Save tab started
+21/08/25	16:00:33 	BookAppLogger INFO     Search tab started
+21/08/25	16:00:33 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:00:33 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:00:33 	BookAppLogger INFO     Read tab started
+21/08/25	16:01:23 	BookAppLogger INFO     Save tab started
+21/08/25	16:01:23 	BookAppLogger INFO     Search tab started
+21/08/25	16:01:23 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:01:23 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:01:23 	BookAppLogger INFO     Read tab started
+21/08/25	16:01:53 	BookAppLogger INFO     Save tab started
+21/08/25	16:01:53 	BookAppLogger INFO     Search tab started
+21/08/25	16:01:53 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:01:53 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:01:53 	BookAppLogger INFO     Read tab started
+21/08/25	16:02:14 	BookAppLogger INFO     Save tab started
+21/08/25	16:02:14 	BookAppLogger INFO     Search tab started
+21/08/25	16:02:14 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:02:14 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:02:14 	BookAppLogger INFO     Read tab started
+21/08/25	16:02:58 	BookAppLogger INFO     Save tab started
+21/08/25	16:02:58 	BookAppLogger INFO     Search tab started
+21/08/25	16:02:58 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:02:58 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:02:58 	BookAppLogger INFO     Read tab started
+21/08/25	16:05:10 	BookAppLogger INFO     Save tab started
+21/08/25	16:05:10 	BookAppLogger INFO     Search tab started
+21/08/25	16:05:10 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:05:10 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:05:10 	BookAppLogger INFO     Read tab started
+21/08/25	16:07:15 	BookAppLogger INFO     Save tab started
+21/08/25	16:07:15 	BookAppLogger INFO     Search tab started
+21/08/25	16:07:15 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:07:15 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:07:15 	BookAppLogger INFO     Read tab started
+21/08/25	16:07:41 	BookAppLogger INFO     Save tab started
+21/08/25	16:07:42 	BookAppLogger INFO     Search tab started
+21/08/25	16:07:42 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:07:42 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:07:42 	BookAppLogger INFO     Read tab started
+21/08/25	16:08:05 	BookAppLogger INFO     Save tab started
+21/08/25	16:08:05 	BookAppLogger INFO     Search tab started
+21/08/25	16:08:05 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:08:05 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:08:05 	BookAppLogger INFO     Read tab started
+21/08/25	16:08:20 	BookAppLogger INFO     Save tab started
+21/08/25	16:08:20 	BookAppLogger INFO     Search tab started
+21/08/25	16:08:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:08:20 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:08:20 	BookAppLogger INFO     Read tab started
+21/08/25	16:08:38 	BookAppLogger INFO     Save tab started
+21/08/25	16:08:38 	BookAppLogger INFO     Search tab started
+21/08/25	16:08:38 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:08:38 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:08:38 	BookAppLogger INFO     Read tab started
+21/08/25	16:09:06 	BookAppLogger INFO     Save tab started
+21/08/25	16:09:06 	BookAppLogger INFO     Search tab started
+21/08/25	16:09:06 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:09:06 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:09:06 	BookAppLogger INFO     Read tab started
+21/08/25	16:09:26 	BookAppLogger INFO     Save tab started
+21/08/25	16:09:26 	BookAppLogger INFO     Search tab started
+21/08/25	16:09:26 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:09:26 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:09:26 	BookAppLogger INFO     Read tab started
+21/08/25	16:10:30 	BookAppLogger INFO     Save tab started
+21/08/25	16:10:30 	BookAppLogger INFO     Search tab started
+21/08/25	16:10:30 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:10:30 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:10:30 	BookAppLogger INFO     Read tab started
+21/08/25	16:12:50 	BookAppLogger INFO     Save tab started
+21/08/25	16:12:50 	BookAppLogger INFO     Search tab started
+21/08/25	16:12:50 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:12:50 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:12:50 	BookAppLogger INFO     Read tab started
+21/08/25	16:13:08 	BookAppLogger INFO     Save tab started
+21/08/25	16:13:08 	BookAppLogger INFO     Search tab started
+21/08/25	16:13:08 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:13:08 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:13:08 	BookAppLogger INFO     Read tab started
+21/08/25	16:13:28 	BookAppLogger INFO     Save tab started
+21/08/25	16:13:28 	BookAppLogger INFO     Search tab started
+21/08/25	16:13:28 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:13:28 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:13:28 	BookAppLogger INFO     Read tab started
+21/08/25	16:13:48 	BookAppLogger INFO     Save tab started
+21/08/25	16:13:48 	BookAppLogger INFO     Search tab started
+21/08/25	16:13:48 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:13:48 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:13:48 	BookAppLogger INFO     Read tab started
+21/08/25	16:14:13 	BookAppLogger INFO     Save tab started
+21/08/25	16:14:13 	BookAppLogger INFO     Search tab started
+21/08/25	16:14:13 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:14:13 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:14:13 	BookAppLogger INFO     Read tab started
+21/08/25	16:27:21 	BookAppLogger INFO     Save tab started
+21/08/25	16:27:21 	BookAppLogger INFO     Search tab started
+21/08/25	16:27:21 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:27:21 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:27:21 	BookAppLogger INFO     Read tab started
+21/08/25	16:29:59 	BookAppLogger INFO     Save tab started
+21/08/25	16:29:59 	BookAppLogger INFO     Search tab started
+21/08/25	16:29:59 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:29:59 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:29:59 	BookAppLogger INFO     Read tab started
+21/08/25	16:38:12 	BookAppLogger INFO     Save tab started
+21/08/25	16:38:12 	BookAppLogger INFO     Search tab started
+21/08/25	16:38:12 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:38:12 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:38:12 	BookAppLogger INFO     Read tab started
+21/08/25	16:44:16 	BookAppLogger INFO     Save tab started
+21/08/25	16:44:16 	BookAppLogger INFO     Search tab started
+21/08/25	16:44:16 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:44:16 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:44:16 	BookAppLogger INFO     Read tab started
+21/08/25	16:44:46 	BookAppLogger INFO     Save tab started
+21/08/25	16:44:46 	BookAppLogger INFO     Search tab started
+21/08/25	16:44:46 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:44:46 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:44:46 	BookAppLogger INFO     Read tab started
+21/08/25	16:47:28 	BookAppLogger INFO     Save tab started
+21/08/25	16:47:28 	BookAppLogger INFO     Search tab started
+21/08/25	16:47:28 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:47:28 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:47:28 	BookAppLogger INFO     Read tab started
+21/08/25	16:51:00 	BookAppLogger INFO     Save tab started
+21/08/25	16:51:00 	BookAppLogger INFO     Search tab started
+21/08/25	16:51:00 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:51:00 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:51:00 	BookAppLogger INFO     Read tab started
+21/08/25	16:53:31 	BookAppLogger INFO     Save tab started
+21/08/25	16:53:31 	BookAppLogger INFO     Search tab started
+21/08/25	16:53:31 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:53:31 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:53:31 	BookAppLogger INFO     Read tab started
+21/08/25	16:54:56 	BookAppLogger INFO     Save tab started
+21/08/25	16:54:56 	BookAppLogger INFO     Search tab started
+21/08/25	16:54:56 	BookAppLogger INFO     Export tab initialized
+21/08/25	16:54:56 	BookAppLogger INFO     XML tab initialized
+21/08/25	16:54:56 	BookAppLogger INFO     Read tab started
+21/08/25	17:03:40 	BookAppLogger INFO     Save tab started
+21/08/25	17:03:40 	BookAppLogger INFO     Search tab started
+21/08/25	17:03:40 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:03:40 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:03:40 	BookAppLogger INFO     Read tab started
+21/08/25	17:05:03 	BookAppLogger INFO     Save tab started
+21/08/25	17:05:04 	BookAppLogger INFO     Search tab started
+21/08/25	17:05:04 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:05:04 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:05:04 	BookAppLogger INFO     Read tab started
+21/08/25	17:05:54 	BookAppLogger INFO     Save tab started
+21/08/25	17:05:54 	BookAppLogger INFO     Search tab started
+21/08/25	17:05:54 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:05:54 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:05:54 	BookAppLogger INFO     Read tab started
+21/08/25	17:06:06 	BookAppLogger INFO     Save tab started
+21/08/25	17:06:06 	BookAppLogger INFO     Search tab started
+21/08/25	17:06:06 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:06:06 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:06:06 	BookAppLogger INFO     Read tab started
+21/08/25	17:06:17 	BookAppLogger INFO     Save tab started
+21/08/25	17:06:17 	BookAppLogger INFO     Search tab started
+21/08/25	17:06:17 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:06:17 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:06:17 	BookAppLogger INFO     Read tab started
+21/08/25	17:06:34 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	17:06:39 	BookAppLogger INFO     Excel downloaded to /home/python_1/Desktop/Shreyash/1.xlsx
+21/08/25	17:06:49 	BookAppLogger INFO     Save tab started
+21/08/25	17:06:49 	BookAppLogger INFO     Search tab started
+21/08/25	17:06:49 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:06:49 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:06:49 	BookAppLogger INFO     Read tab started
+21/08/25	17:08:35 	BookAppLogger INFO     Save tab started
+21/08/25	17:08:35 	BookAppLogger INFO     Search tab started
+21/08/25	17:08:35 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:08:35 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:08:35 	BookAppLogger INFO     Read tab started
+21/08/25	17:09:30 	BookAppLogger INFO     Save tab started
+21/08/25	17:09:30 	BookAppLogger INFO     Search tab started
+21/08/25	17:09:30 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:09:30 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:09:30 	BookAppLogger INFO     Read tab started
+21/08/25	17:17:11 	BookAppLogger INFO     Save tab started
+21/08/25	17:17:11 	BookAppLogger INFO     Search tab started
+21/08/25	17:17:11 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:17:11 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:17:11 	BookAppLogger INFO     Read tab started
+21/08/25	17:18:16 	BookAppLogger INFO     Save tab started
+21/08/25	17:18:16 	BookAppLogger INFO     Search tab started
+21/08/25	17:18:16 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:18:16 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:18:16 	BookAppLogger INFO     Read tab started
+21/08/25	17:18:38 	BookAppLogger INFO     Save tab started
+21/08/25	17:18:39 	BookAppLogger INFO     Search tab started
+21/08/25	17:18:39 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:18:39 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:18:39 	BookAppLogger INFO     Read tab started
+21/08/25	17:21:03 	BookAppLogger INFO     Save tab started
+21/08/25	17:21:03 	BookAppLogger INFO     Search tab started
+21/08/25	17:21:03 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:21:03 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:21:03 	BookAppLogger INFO     Read tab started
+21/08/25	17:21:20 	BookAppLogger INFO     Save tab started
+21/08/25	17:21:20 	BookAppLogger INFO     Search tab started
+21/08/25	17:21:20 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:21:20 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:21:20 	BookAppLogger INFO     Read tab started
+21/08/25	17:21:37 	BookAppLogger INFO     Save tab started
+21/08/25	17:21:37 	BookAppLogger INFO     Search tab started
+21/08/25	17:21:37 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:21:37 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:21:37 	BookAppLogger INFO     Read tab started
+21/08/25	17:21:48 	BookAppLogger INFO     Save tab started
+21/08/25	17:21:48 	BookAppLogger INFO     Search tab started
+21/08/25	17:21:48 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:21:48 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:21:48 	BookAppLogger INFO     Read tab started
+21/08/25	17:22:16 	BookAppLogger INFO     Save tab started
+21/08/25	17:22:16 	BookAppLogger INFO     Search tab started
+21/08/25	17:22:16 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:22:16 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:22:16 	BookAppLogger INFO     Read tab started
+21/08/25	17:22:31 	BookAppLogger INFO     Save tab started
+21/08/25	17:22:31 	BookAppLogger INFO     Search tab started
+21/08/25	17:22:31 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:22:31 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:22:31 	BookAppLogger INFO     Read tab started
+21/08/25	17:25:23 	BookAppLogger INFO     Save tab started
+21/08/25	17:25:23 	BookAppLogger INFO     Search tab started
+21/08/25	17:25:23 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:25:23 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:25:23 	BookAppLogger INFO     Read tab started
+21/08/25	17:27:55 	BookAppLogger INFO     Save tab started
+21/08/25	17:27:55 	BookAppLogger INFO     Search tab started
+21/08/25	17:27:55 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:27:55 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:27:55 	BookAppLogger INFO     Read tab started
+21/08/25	17:28:06 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:28:30 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	17:28:35 	BookAppLogger INFO     Excel downloaded to /home/python_1/Desktop/Shreyash/2.xlsx
+21/08/25	17:28:40 	BookAppLogger INFO     Loaded file: 2.xlsx with shape 5x5
+21/08/25	17:28:42 	BookAppLogger INFO     Combined 2 files into one with shape 10x5
+21/08/25	17:31:57 	BookAppLogger INFO     Save tab started
+21/08/25	17:31:57 	BookAppLogger INFO     Search tab started
+21/08/25	17:31:57 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:31:57 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:31:57 	BookAppLogger INFO     Read tab started
+21/08/25	17:32:04 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:32:11 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:32:11 	BookAppLogger INFO     Loaded file: 2.xlsx with shape 5x5
+21/08/25	17:32:14 	BookAppLogger INFO     Combined 2 files into one with shape 10x5
+21/08/25	17:34:39 	BookAppLogger INFO     Save tab started
+21/08/25	17:34:39 	BookAppLogger INFO     Search tab started
+21/08/25	17:34:39 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:34:39 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:34:39 	BookAppLogger INFO     Read tab started
+21/08/25	17:34:46 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:34:59 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:35:02 	BookAppLogger INFO     Loaded file: 2.xlsx with shape 5x5
+21/08/25	17:35:06 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:36:37 	BookAppLogger INFO     Save tab started
+21/08/25	17:36:37 	BookAppLogger INFO     Search tab started
+21/08/25	17:36:37 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:36:37 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:36:37 	BookAppLogger INFO     Read tab started
+21/08/25	17:36:43 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:38:05 	BookAppLogger INFO     Save tab started
+21/08/25	17:38:05 	BookAppLogger INFO     Search tab started
+21/08/25	17:38:05 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:38:05 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:38:05 	BookAppLogger INFO     Read tab started
+21/08/25	17:39:34 	BookAppLogger INFO     Save tab started
+21/08/25	17:39:34 	BookAppLogger INFO     Search tab started
+21/08/25	17:39:34 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:39:34 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:39:34 	BookAppLogger INFO     Read tab started
+21/08/25	17:39:42 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:39:47 	BookAppLogger INFO     Loaded file: 2.xlsx with shape 5x5
+21/08/25	17:39:50 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:40:02 	BookAppLogger INFO     Loaded file: 2.xlsx with shape 5x5
+21/08/25	17:40:05 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:40:13 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:40:25 	BookAppLogger INFO     JSON data exported to /tmp/books_exported.xlsx
+21/08/25	17:40:33 	BookAppLogger INFO     Excel downloaded to /home/python_1/Desktop/Shreyash/3.xlsx
+21/08/25	17:40:41 	BookAppLogger INFO     Loaded file: 3.xlsx with shape 5x5
+21/08/25	17:40:46 	BookAppLogger INFO     Combined 3 files into one with shape (15, 5)
+21/08/25	17:41:12 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:41:35 	BookAppLogger INFO     Save tab started
+21/08/25	17:41:35 	BookAppLogger INFO     Search tab started
+21/08/25	17:41:35 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:41:35 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:41:35 	BookAppLogger INFO     Read tab started
+21/08/25	17:42:21 	BookAppLogger INFO     Save tab started
+21/08/25	17:42:21 	BookAppLogger INFO     Search tab started
+21/08/25	17:42:21 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:42:21 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:42:21 	BookAppLogger INFO     Read tab started
+21/08/25	17:42:28 	BookAppLogger INFO     Loaded file: 1.xlsx with shape 5x5
+21/08/25	17:42:31 	BookAppLogger INFO     Loaded file: 3.xlsx with shape 5x5
+21/08/25	17:42:36 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:42:41 	BookAppLogger INFO     Loaded file: 2.xlsx with shape 5x5
+21/08/25	17:42:43 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:42:51 	BookAppLogger INFO     Combined 1 files into one with shape (5, 5)
+21/08/25	17:44:43 	BookAppLogger INFO     Loaded file: 3.xlsx with shape 5x5
+21/08/25	17:44:49 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:44:54 	BookAppLogger INFO     Combined 1 files into one with shape (5, 5)
+21/08/25	17:44:57 	BookAppLogger INFO     Loaded file: 3.xlsx with shape 5x5
+21/08/25	17:45:03 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:49:24 	BookAppLogger INFO     Save tab started
+21/08/25	17:49:25 	BookAppLogger INFO     Search tab started
+21/08/25	17:49:25 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:49:25 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:49:25 	BookAppLogger INFO     Read tab started
+21/08/25	17:49:39 	BookAppLogger INFO     Loaded file: 1.xlsx shape (5, 5)
+21/08/25	17:49:43 	BookAppLogger INFO     Loaded file: 2.xlsx shape (5, 5)
+21/08/25	17:49:46 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:50:26 	BookAppLogger INFO     Save tab started
+21/08/25	17:50:26 	BookAppLogger INFO     Search tab started
+21/08/25	17:50:26 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:50:26 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:50:26 	BookAppLogger INFO     Read tab started
+21/08/25	17:50:53 	BookAppLogger INFO     Save tab started
+21/08/25	17:50:53 	BookAppLogger INFO     Search tab started
+21/08/25	17:50:53 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:50:53 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:50:53 	BookAppLogger INFO     Read tab started
+21/08/25	17:51:11 	BookAppLogger INFO     Save tab started
+21/08/25	17:51:11 	BookAppLogger INFO     Search tab started
+21/08/25	17:51:11 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:51:11 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:51:11 	BookAppLogger INFO     Read tab started
+21/08/25	17:51:42 	BookAppLogger INFO     Save tab started
+21/08/25	17:51:42 	BookAppLogger INFO     Search tab started
+21/08/25	17:51:42 	BookAppLogger INFO     Export tab initialized
+21/08/25	17:51:42 	BookAppLogger INFO     XML tab initialized
+21/08/25	17:51:42 	BookAppLogger INFO     Read tab started
+21/08/25	17:51:52 	BookAppLogger INFO     Loaded file: 1.xlsx shape (5, 5)
+21/08/25	17:51:55 	BookAppLogger INFO     Loaded file: 2.xlsx shape (5, 5)
+21/08/25	17:51:57 	BookAppLogger INFO     Combined 2 files into one with shape (10, 5)
+21/08/25	17:52:05 	BookAppLogger INFO     Loaded file: 3.xlsx shape (5, 5)
+21/08/25	17:52:07 	BookAppLogger INFO     Combined 3 files into one with shape (15, 5)
+21/08/25	18:02:48 	BookAppLogger INFO     Save tab started
+21/08/25	18:02:48 	BookAppLogger INFO     Search tab started
+21/08/25	18:02:48 	BookAppLogger INFO     Export tab initialized
+21/08/25	18:02:48 	BookAppLogger INFO     XML tab initialized
+21/08/25	18:02:48 	BookAppLogger INFO     Read tab started
+22/08/25	09:22:37 	BookAppLogger INFO     Save tab started
+22/08/25	09:22:38 	BookAppLogger INFO     Search tab started
+22/08/25	09:22:38 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:22:38 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:22:38 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:22:50 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/1.xlsx
+22/08/25	09:22:50 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/2.xlsx
+22/08/25	09:22:57 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/1.xlsx
+22/08/25	09:22:57 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/2.xlsx
+22/08/25	09:22:57 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/3.xlsx
+22/08/25	09:26:48 	BookAppLogger INFO     Save tab started
+22/08/25	09:26:48 	BookAppLogger INFO     Search tab started
+22/08/25	09:26:48 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:26:48 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:26:48 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:26:59 	BookAppLogger ERROR    Invalid index for deletion
+22/08/25	09:27:00 	BookAppLogger ERROR    Invalid index for deletion
+22/08/25	09:27:17 	BookAppLogger INFO     Save tab started
+22/08/25	09:27:17 	BookAppLogger INFO     Search tab started
+22/08/25	09:27:17 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:27:17 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:27:17 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:29:06 	BookAppLogger INFO     Save tab started
+22/08/25	09:29:07 	BookAppLogger INFO     Search tab started
+22/08/25	09:29:07 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:29:07 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:29:07 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:43:41 	BookAppLogger INFO     Save tab started
+22/08/25	09:43:41 	BookAppLogger INFO     Search tab started
+22/08/25	09:43:41 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:43:41 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:43:41 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:44:25 	BookAppLogger INFO     Save tab started
+22/08/25	09:44:25 	BookAppLogger INFO     Search tab started
+22/08/25	09:44:25 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:44:25 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:44:25 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:44:37 	BookAppLogger INFO     Save tab started
+22/08/25	09:44:38 	BookAppLogger INFO     Search tab started
+22/08/25	09:44:38 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:44:38 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:44:38 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:44:49 	BookAppLogger INFO     Save tab started
+22/08/25	09:44:49 	BookAppLogger INFO     Search tab started
+22/08/25	09:44:49 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:44:49 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:44:49 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:45:16 	BookAppLogger INFO     Save tab started
+22/08/25	09:45:16 	BookAppLogger INFO     Search tab started
+22/08/25	09:45:16 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:45:16 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:45:16 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:45:26 	BookAppLogger INFO     Save tab started
+22/08/25	09:45:26 	BookAppLogger INFO     Search tab started
+22/08/25	09:45:26 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:45:26 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:45:26 	BookAppLogger INFO     Read tab initialized
+22/08/25	09:45:36 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/1.xlsx
+22/08/25	09:45:36 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/3.xlsx
+22/08/25	09:45:38 	BookAppLogger INFO     Combined data shape: (10, 5)
+22/08/25	09:45:50 	BookAppLogger INFO     Loaded file: /home/python_1/Desktop/Shreyash/1.xlsx
+22/08/25	09:45:51 	BookAppLogger INFO     Combined data shape: (5, 5)
+22/08/25	09:51:59 	BookAppLogger INFO     Save tab started
+22/08/25	09:52:00 	BookAppLogger INFO     Search tab started
+22/08/25	09:52:00 	BookAppLogger INFO     Export tab initialized
+22/08/25	09:52:00 	BookAppLogger INFO     XML tab initialized
+22/08/25	09:52:00 	BookAppLogger INFO     Read tab initialized
